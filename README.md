@@ -37,12 +37,12 @@ The purpose of this project is to analyze the NBA statistics Dataset from Kaggle
 * Calculate the statistics for each player but using the data from all the seasons the player has participated.
 * Create the scatter plots for all pairs of the metrics in order to find any linear relationships.
 * To extract more accurate results perform the <b>Pearson Correlation Test</b> on the Data.
-* From the results of the test we can tell that there are statistical significant relationsips between the metrics.
+* From the results of the test we can tell that there are statistical significant relationships between the metrics.
 * Do the same for the positions and extract more specific correlations.
 
 #### Step 6 In this part we want to study if there is a difference between the performance of players who play in a different position.
 * Use the metrics from the previous step and create barplots with the average values for different positions, with 95% -confidence intervals.
-* Observe that the players perform differntly when playing in different positions.
+* Observe that the players perform differently when playing in different positions.
 
 ## Part 2 Hypothesis Testing
 
@@ -55,7 +55,7 @@ The purpose of this project is to analyze the NBA statistics Dataset from Kaggle
 * Using the <b>Student T-Test</b> we conclude that there are some significant differences of the means in different positions.
 
 #### Question 2 In this part we will focus our attention on player Russell Westbrook, who has achieved a significant number of Triple-Doubles.
-* First using the data we will find the chance of his team winning when he has achieved triple-double is and compare it to the probability of his team winning regardless if he has achiaved a tripple double, in order to understand if this is beneficial for his team.
+* First using the data we will find the chance of his team winning when he has achieved triple-double and compare it to the probability of his team winning regardless if he has achiaved a tripple double, in order to understand if this is beneficial for his team.
 * Subsequently we will assume the following:
 *  -H0: There is no dependence between a victory and the triple-double Of Russel
 *  -H1: There is a correlation between a victory and the triple-double Of Russel
