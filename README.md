@@ -10,7 +10,7 @@ The purpose of this project is to analyze the NBA statistics Dataset from Kaggle
 * Extract usefull conclusions by creating various plots of the Data
 * Apply hypothesis testing methods.
 
-<img src='https://github.com/KGharib/Test-Gif/blob/master/Lebron.gif'>
+<img src='https://github.com/billgewrgoulas/-Hypothesis-Testing-on-37-Seasons-of-NBA/blob/main/ball.jpg'>
 
 ## Part 1 Statistical Analysis
 
