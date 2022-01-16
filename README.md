@@ -12,6 +12,7 @@ The purpose of this project is to analyze the NBA statistics Dataset from Kaggle
 
 <img src='https://github.com/KGharib/Test-Gif/blob/master/Lebron.gif'>
 
+## Part 1 Statistical Analysis
 
 #### Step 1 - Data Pre-Processing
 * Keep only seasons from 1980 to 2017.
