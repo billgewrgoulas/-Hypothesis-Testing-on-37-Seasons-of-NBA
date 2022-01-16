@@ -24,7 +24,7 @@ The purpose of this project is to analyze the NBA statistics Dataset from Kaggle
 * Use the log-scale method to better visualize the plots.
 
 #### Step 3 Analyze how age affects player performance.
-* For each player calculate the metrics: PPG, APG, BPG, TS%, PER, RPG for each player for each season.
+* For each player calculate the metrics: PPG, APG, BPG, TS%, PER, RPG for each season.
 * Create a line plot for each metric.
 * Observe that the age factor has a direct correlation with player performance and affects each metric differently.
 
